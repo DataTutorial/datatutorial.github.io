@@ -1,5 +1,5 @@
 # Hugo
-title = "Data Tutorial"
+title = "DataTutorial.org"
 description = ""
 images = ["cover-doks.png"]
 
@@ -18,7 +18,7 @@ mainSections = ["big-data-and-databases",
 # alertText = '<strong>Cyber Sale</strong>! <a class="alert-link stretched-link text-decoration-none fw-normal" href="https://store.thulite.io/vermeer/?utm_source=doks&utm_medium=banner&utm_campaign=cyber_sale">Get Vermeer at 40% off with code <strong>THULITE40</strong></a>'
 
 # Footer
-footer = "Brought to you by <a class=\"text-muted\" href=\"https://thulite.io/\">Thulite</a>"
+footer = "Copyright 2025 <a class=\"text-muted\" href=\"https://datatutorial.org/\">Data Tutorial</a>"
 
 #[social]
 #  twitter = "getdoks"
@@ -28,17 +28,17 @@ footer = "Brought to you by <a class=\"text-muted\" href=\"https://thulite.io/\"
   carbonAds = false # false (default) or true
   ethicalAds = false # false (default) or true
   docSearch = false # false (default) or true
-  plausibleDomain = "getdoks.org" # "example.com" (default)
+  plausibleDomain = "datatutorial.org" # "example.com" (default)
   keila = false # false (default) or true
 
 # Doks (@thulite/doks-core)
 [doks]
   # Color mode
-  colorMode = "auto" # auto (default), light or dark
-  colorModeToggler = true # true (default) or false (this setting is only relevant when colorMode = auto)
+  colorMode = "dark" # auto (default), light or dark
+  colorModeToggler = false # true (default) or false (this setting is only relevant when colorMode = auto)
 
   # Navbar
-  navbarSticky = true # true (default) or false
+  navbarSticky = false # true (default) or false
   containerBreakpoint = "fluid" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
 
   ## Button
