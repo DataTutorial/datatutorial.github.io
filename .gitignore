@@ -1,0 +1,8 @@
+.env
+.netlify
+.hugo_build.lock
+node_modules
+public
+resources
+bun.lockb
+hugo_stats.json
