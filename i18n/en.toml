@@ -27,7 +27,7 @@ one = "minute"
 other = "minutes"
 
 [on_this_page]
-other = "On this page"
+other = "Table of contents"
 
 [reading_time]
 other = "Estimated reading time"
