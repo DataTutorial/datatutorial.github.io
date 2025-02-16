@@ -20,7 +20,7 @@ defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "Copyright 2025 Computer Science"
+copyRight = "Copyright 2025 Data Tutorial"
 
 [build.buildStats]
   enable = true
