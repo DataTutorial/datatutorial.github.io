@@ -20,9 +20,6 @@ mainSections = ["big-data-and-databases",
 # Footer
 footer = "Copyright 2025 <a class=\"text-muted\" href=\"https://datatutorial.org/\">Data Tutorial</a>"
 
-#[social]
-#  twitter = "getdoks"
-
 # Add-ons
 [add_ons]
   carbonAds = false # false (default) or true
@@ -151,7 +148,7 @@ footer = "Copyright 2025 <a class=\"text-muted\" href=\"https://datatutorial.org
   [seo.schemas]
     type = "Organization" # Organization (default) or Person
     logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)
-    name = "DataTutorial" # Name of Organization or Person
+    name = "DataTutorial.org" # Name of Organization or Person
     sameAs = [] # E.g. ["https://github.com/thuliteio/thulite", "https://fosstodon.org/@thulite"]
     images = ["cover.png"] # ["cover.png"] (default)
     article = [] # Article sections
