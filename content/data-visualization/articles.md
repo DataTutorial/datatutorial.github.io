@@ -40,7 +40,7 @@ seo:
 | 3D Visualization                            |
 | Caching                                     |
 | Data source: Embedded vs. Published         |
-| Improving the performance of a workbook     |
+| [Optimize workbook performance](../tableau-desktop/improving-the-performance-of-a-workbook)               |
 | Performance Recorder                        |
 | Tableau Desktop vs. Public                  |
 | Tableau file extensions                     |
