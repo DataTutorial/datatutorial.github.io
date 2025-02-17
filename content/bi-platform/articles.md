@@ -28,29 +28,30 @@ seo:
 
 | Tableau Cloud and Server                                        |
 |-----------------------------------------------------------------|
-| [Caching](myLink)                                               |
-| [Metadata - Connect to Tableau Repository (PostgreSQL)](myLink) |
-| [Data source: Embedded vs. Published](myLink)                   |
-| [Improving the performance of a workbook](myLink)               |
-| [Install Tableau Bridge: Linux with Docker](myLink)             |
-| [Install Tableau Server on Linux](myLink)                       |
-| [Install Tableau Server on Windows Server](myLink)              |
-| [Logshark](myLink)                                              |
-| [Performance Recorder](myLink)                                  |
-| [Tableau file extensions](myLink)                               |
-| [Tableau Server / Cloud Processes](myLink)                      |
-| [Tableau Server Topology](myLink)                               |
-| [Tabjolt](myLink)                                               |
-| [Virtual Connection](myLink)                                    |
+| Caching                                                         |
+| Metadata - Connect to Tableau Repository (PostgreSQL)           |
+| Data source: Embedded vs. Published                             |
+| Improving the performance of a workbook                         |
+| Install Tableau Bridge: Linux with Docker                       |
+| Install Tableau Server on Linux                                 |
+| Install Tableau Server on Windows Server                        |
+| Logshark                                                        |
+| Performance Recorder                                            |
+| Tableau file extensions                                         |
+| Tableau Server / Cloud Processes                                |
+| Tableau Server Topology                                         |
+| Tabjolt                                                         |
+| Virtual Connection                                              |
+
 
 <br><br>
 
 | APIs and SDK                          |
 |---------------------------------------|
-| [Hyper SDK](myLink)                   |
-| [Rest API](myLink)                    |
-| [TSC - Tableau Server Client](myLink) |
-| [Web Data Connector 3.0 SDK](myLink)  |
+| Hyper SDK                             |
+| Rest API                              |
+| TSC - Tableau Server Client           |
+| Web Data Connector 3.0 SDK            |
 
 {{< /card >}}
 {{< /card-grid >}}

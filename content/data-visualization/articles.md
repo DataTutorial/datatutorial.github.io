@@ -15,9 +15,9 @@ seo:
 
 {{< card-grid >}}
 {{< card title="Multi Applications" icon="outline/chart-area-line" color="yellow" >}}
-|                                                   |
-| --------                                          |
-| [Tableau Desktop vs. Power BI Desktop](myLink)    |
+|                                             |
+|---------------------------------------------|
+| Tableau Desktop vs Power BI Desktop         |
 
 {{< /card >}}
 {{< /card-grid >}}
@@ -25,9 +25,9 @@ seo:
 {{< card-grid >}}
 {{< card title="PowerBI Desktop" icon="outline/chart-bar" color="blue" >}}
 
-|                                                   |
-| --------                                          |
-| Soon                                              |
+|                                              |
+|---------------------------------------------|
+| Soon                                        |
 
 {{< /card >}}
 {{< /card-grid >}}
@@ -35,15 +35,15 @@ seo:
 {{< card-grid >}}
 {{< card title="Tableau Desktop" icon="outline/chart-column" color="red" >}}
 
-|                                                   |
-| --------                                          |
-| [3D Visualization](myLink)                        |
-| [Caching](myLink)                                 |
-| [Data source: Embedded vs. Published](myLink)     |
-| [Improving the performance of a workbook](myLink) |
-| [Performance Recorder](myLink)                    |
-| [Tableau Desktop vs. Public](myLink)              |
-| [Tableau file extensions](myLink)                 |
+|                                             |
+|---------------------------------------------|
+| 3D Visualization                            |
+| Caching                                     |
+| Data source: Embedded vs. Published         |
+| Improving the performance of a workbook     |
+| Performance Recorder                        |
+| Tableau Desktop vs. Public                  |
+| Tableau file extensions                     |
 
 {{< /card >}}
 {{< /card-grid >}}
