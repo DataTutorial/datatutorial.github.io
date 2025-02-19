@@ -83,4 +83,8 @@ Tableau Server is built with multiple components that interact with each other t
 
 ### 13. **VizData (2024.2)**
 
-- Soon
+- Handles connections and queries of the published data sources instead of Data Server
+
+## Tableau Process Scenario
+
+[![ts-architecture-scenario](images/bi-platform/tableau-server-cloud/ts-architecture-scenario.png)](https://public.tableau.com/app/profile/technical.product.marketing/viz/TableauServerProcessScenarios/ServerArchitectureFlow)
