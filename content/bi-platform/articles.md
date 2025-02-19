@@ -30,15 +30,15 @@ seo:
 |-----------------------------------------------------------------|
 | Caching                                                         |
 | Metadata - Connect to Tableau Repository (PostgreSQL)           |
-| Data source: Embedded vs. Published                             |
+| Data source: Embedded vs Published                              |
 | Improving the performance of a workbook                         |
 | Install Tableau Bridge: Linux with Docker                       |
 | Install Tableau Server on Linux                                 |
 | Install Tableau Server on Windows Server                        |
 | Logshark                                                        |
-| Performance Recorder                                            |
+| Performance Recording                                           |
 | Tableau file extensions                                         |
-| Tableau Server / Cloud Processes                                |
+| [Tableau Server Processes ](../tableau-server-cloud/processes) |
 | Tableau Server Topology                                         |
 | Tabjolt                                                         |
 | Virtual Connection                                              |
