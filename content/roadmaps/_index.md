@@ -1,12 +1,10 @@
 ---
-title: "Data Science & Analytics"
+title: "Roadmaps"
 description: ""
 summary: ""
-date: 2025-01-23T02:19:37Z
-lastmod: 2025-01-23T02:19:37Z
+date: 2025-01-11T16:06:12Z
+lastmod: 2025-01-11T16:06:12Z
 draft: false
-sidebar:
-  collapsed: true
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
