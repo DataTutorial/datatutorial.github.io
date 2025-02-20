@@ -460,6 +460,39 @@ table {
 
 @include color-mode(dark) {
     .navbar {
-        background-color: #23242a;
+        background-color: #18191B;
     }
+}
+
+.custom-banner {
+    position: relative;
+    width: 100%;
+    height: 140px;
+    background-image: url('images/background.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;  /* Center vertically */
+    justify-content: center;  /* Center horizontally */
+    text-align: center; /* Ensure text is centered */
+    overflow: hidden; /* Ensures overlay stays inside */
+}
+
+.custom-banner::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.custom-banner h1 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 1.88rem;
+    color: white;
+    margin: 0;
+    position: relative;
+    z-index: 1;
 }
