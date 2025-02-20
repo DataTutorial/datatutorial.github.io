@@ -18,8 +18,8 @@ seo:
 
 |                                                              |
 |--------------------------------------------------------------|
-| [Data Engineer](../roadmaps/data-engineer)                   |
-| [Database Administrator](../roadmaps/database-administrator) |
+| [Data Engineer](../data-engineer)                   |
+| [Database Administrator](../database-administrator) |
 
 {{< /card >}}
 {{< /card-grid >}}
@@ -29,8 +29,8 @@ seo:
 
 |                                              |
 |----------------------------------------------|
-| [Data Analyst](../roadmaps/data-analyst)     |
-| [Data Scientist](../roadmaps/data-scientist) |
+| [Data Analyst](../data-analyst)     |
+| [Data Scientist](../data-scientist) |
 
 {{< /card >}}
 {{< /card-grid >}}
