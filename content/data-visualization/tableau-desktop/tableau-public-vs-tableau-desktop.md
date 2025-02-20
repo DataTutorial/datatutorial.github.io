@@ -17,6 +17,6 @@ seo:
 |---------------|-------------------------------------------------|-------------------------------------------------|
 | **Price**     | Free                                           | €75/month (annual billing) ([source](https://www.tableau.com/pricing)) |
 | **Included**  | —                                               | - Tableau Desktop<br>- Tableau Prep Builder<br>- 1 Creator license (Tableau Server/Cloud) |
-| **Data Sources** | - Excel<br>- Text<br>- JSON<br>- Access<br>- PDF<br>- Spatial<br>- Statistical<br>- OData<br>- Google Drive | - Local/cloud data<br>- Big Data<br>- SQL/NoSQL databases<br>- Spreadsheets<br>- Google Analytics<br>- Salesforce<br>- [View connectors](https://www.tableau.com/products/connectors) |
+| **Data Sources** | - Excel<br>- Text<br>- JSON<br>- Access<br>- PDF<br>- Spatial<br>- Statistical<br>- OData<br>- Google Drive | - Local/cloud data<br>- Big Data<br>- SQL/NoSQL databases<br>- Spreadsheets<br>- Google Analytics<br>- Salesforce<br>- [View connectors](https://help.tableau.com/current/pro/desktop/en-us/exampleconnections_overview.htm) |
 | **Security**  | - Saved locally<br>- Shared on Tableau Public | - Saved locally<br>- Shared on Tableau Server/Cloud (Private or Public) |
 | **Download**  | [Link](https://public.tableau.com)              | [Link](https://www.tableau.com/products/desktop) |
